@@ -1,8 +1,8 @@
-# Hi 👋
-<p> My name is Fernando Kalke :man:🇧🇷</p> 
-<p>I currently work as an IT support at Domingos Martins City Hall.</p>
-<p>Passionate about technology since he was a child. Always open to new challenges, and always willing to learn.</p>
-<li>:mortar_board:Academic in systems analysis and development at Uniasselvi</li>
+# Olá 👋
+<p> Meu nome é Fernando Kalke :man:🇧🇷</p> 
+<p>Atualmente sou Gerente de TI da prefeitura da minha cidade</p>
+<p>Apaixonado por tecnologia desde criança. Aberto a novos desafios, sempre disposto a aprender.</p>
+<li>:mortar_board:Acadêmico em Análise e Desenvolvimento de Sistemas</li>
 <li>📍 Domingos martins - ES</li>
 </br>
 
