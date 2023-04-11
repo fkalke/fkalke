@@ -1,7 +1,7 @@
 # Olá 👋
 <p> Meu nome é Fernando Kalke :man:🇧🇷</p> 
-<p>Atualmente sou Gerente de TI na prefeitura da minha cidade</p>
-<p>Apaixonado por tecnologia desde criança. Aberto a novos desafios, sempre disposto a aprender.</p>
+<p>Programador Java Jr</p>
+<p>Apaixonado por tecnologia desde criança. Sempre disposto a aprender.</p>
 <li>:mortar_board:Acadêmico em Análise e Desenvolvimento de Sistemas</li>
 <li>📍 Domingos martins - ES</li>
 </br>
