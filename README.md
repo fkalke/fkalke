@@ -2,7 +2,7 @@
 <p> Meu nome é Fernando Kalke :man:🇧🇷</p> 
 <p>Programador Java Jr</p>
 <p>Apaixonado por tecnologia desde criança. Sempre disposto a aprender.</p>
-<li>:mortar_board:Acadêmico em Análise e Desenvolvimento de Sistemas</li>
+<li>:mortar_board:Formado em Análise e Desenvolvimento de Sistemas</li>
 <li>📍 Domingos martins - ES</li>
 </br>
 
